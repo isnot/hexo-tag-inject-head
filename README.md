@@ -1,2 +1,8 @@
 # hexo-tag-inject-head
-This is Tag plugin for Hexo.
+
+This is a Tag plugin for [Hexo](https://hexo.io/).
+
+## License
+
+Copyright (c) 2020 isnot
+Licensed under the MIT license.

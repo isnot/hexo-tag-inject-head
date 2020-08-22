@@ -1,0 +1,31 @@
+{
+  "name": "hexo-tag-inject-head",
+  "version": "1.0.0",
+  "description": "This is a Tag plugin for Hexo. It injects some snippets to head element.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "eslint": "eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isnot/hexo-tag-inject-head.git"
+  },
+  "keywords": [
+    "hexo",
+    "plugin"
+  ],
+  "author": {
+    "name": "isnot"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/isnot/hexo-tag-inject-head/issues"
+  },
+  "homepage": "https://github.com/isnot/hexo-tag-inject-head#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.6.0",
+    "eslint-config-hexo": "^4.1.0"
+  }
+}
